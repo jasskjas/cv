@@ -1,9 +1,11 @@
 {
-  "main.css": "static/css/main.5b22738d.css",
-  "main.css.map": "static/css/main.5b22738d.css.map",
-  "main.js": "static/js/main.ec2d9c25.js",
-  "main.js.map": "static/js/main.ec2d9c25.js.map",
+  "main.css": "static/css/main.a3228638.css",
+  "main.css.map": "static/css/main.a3228638.css.map",
+  "main.js": "static/js/main.b0484a97.js",
+  "main.js.map": "static/js/main.b0484a97.js.map",
+  "static\\media\\BLUEPILL.png": "static/media/BLUEPILL.cd5ba054.png",
   "static\\media\\FernandezPadillaJosueKevin.mp4": "static/media/FernandezPadillaJosueKevin.3a17fdb5.mp4",
   "static\\media\\FernandezPadillaJosueKevinResume.pdf": "static/media/FernandezPadillaJosueKevinResume.b142a6d7.pdf",
+  "static\\media\\REDPILL.png": "static/media/REDPILL.b02e8129.png",
   "static\\media\\kjas.png": "static/media/kjas.086e9dde.png"
 }
